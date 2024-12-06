@@ -1,1 +1,1 @@
-const dev = {"dev1"}
+const dev = "dev1";
